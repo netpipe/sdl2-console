@@ -6,7 +6,7 @@
 #include "SDL2/SDL_ttf.h"
 #include <iostream>
 #include "consolemgr.h"
-
+//http://compsci.ca/v3/viewtopic.php?t=39585
 //g++ sdl_console.cpp -lSDL2 -lSDL2_image
 using namespace std;
 
